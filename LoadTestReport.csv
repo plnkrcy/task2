@@ -1,0 +1,29 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1738682624012,1829,1-Visit N11 website,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-1,,true,,133259,5333,1,1,null,0,2,700
+1738682624012,97,/-95,200,OK,Thread Group 1-1,text,true,,66991,464,1,1,https://www.n11.com/,87,0,54
+1738682624109,892,/adrum.js-99,200,OK,Thread Group 1-1,text,true,,37799,384,1,1,https://n11scdn.akamaized.net/adrum.js,858,0,646
+1738682625001,48,/hesabim/hesap-bilgileri-131,200,,Thread Group 1-1,text,true,,1400,818,1,1,https://www.n11.com/hesabim/hesap-bilgileri,48,0,0
+1738682625049,37,/live-chat-132,200,,Thread Group 1-1,text,true,,1112,918,1,1,https://www.n11.com/live-chat?pathName=%2F,37,0,0
+1738682625086,48,/component/render/conceptPromotion-133,200,OK,Thread Group 1-1,text,true,,18384,912,1,1,https://www.n11.com/component/render/conceptPromotion?page=1,45,0,0
+1738682625135,40,/api/country-notification/check-134,200,,Thread Group 1-1,text,true,,779,926,1,1,https://www.n11.com/api/country-notification/check,40,0,0
+1738682625175,667,/component/render/homepageRecommendation-136,200,,Thread Group 1-1,text,true,,6794,911,1,1,https://www.n11.com/component/render/homepageRecommendation,666,0,0
+1738682625843,1470,2-Search 16 pro,200,"Number of samples in transaction : 19, number of failing samples : 0",Thread Group 1-1,,true,,93638,18498,1,1,null,0,13,217
+1738682625845,343,/events-320,200,OK,Thread Group 1-1,,true,,577,854,1,1,https://athena-event-provider.n11.com/events,343,0,217
+1738682626189,126,/events-321,201,Created,Thread Group 1-1,,true,,471,1217,1,1,https://athena-event-provider.n11.com/events,126,0,0
+1738682626316,41,/arama/tamamla-322,200,OK,Thread Group 1-1,text,true,,2416,919,1,1,https://www.n11.com/arama/tamamla?keyword=i,41,0,0
+1738682626357,35,/arama/tamamla-323,200,OK,Thread Group 1-1,text,true,,2106,920,1,1,https://www.n11.com/arama/tamamla?keyword=ip,34,0,0
+1738682626392,39,/arama/tamamla-326,200,OK,Thread Group 1-1,text,true,,1391,921,1,1,https://www.n11.com/arama/tamamla?keyword=iph,39,0,0
+1738682626432,35,/arama/tamamla-327,200,OK,Thread Group 1-1,text,true,,1378,922,1,1,https://www.n11.com/arama/tamamla?keyword=ipho,35,0,0
+1738682626467,42,/arama/tamamla-328,200,OK,Thread Group 1-1,text,true,,1394,924,1,1,https://www.n11.com/arama/tamamla?keyword=iphone,42,0,0
+1738682626510,40,/arama/tamamla-330,200,OK,Thread Group 1-1,text,true,,1392,925,1,1,https://www.n11.com/arama/tamamla?keyword=iphone+,39,0,0
+1738682626551,36,/arama/tamamla-331,200,OK,Thread Group 1-1,text,true,,1404,926,1,1,https://www.n11.com/arama/tamamla?keyword=iphone+1,36,0,0
+1738682626587,52,/arama/tamamla-332,200,OK,Thread Group 1-1,text,true,,1435,927,1,1,https://www.n11.com/arama/tamamla?keyword=iphone+16,52,0,0
+1738682626639,43,/arama/tamamla-333,200,OK,Thread Group 1-1,text,true,,1231,930,1,1,https://www.n11.com/arama/tamamla?keyword=iphone+16+pr,43,0,0
+1738682626684,48,/arama/tamamla-334,200,OK,Thread Group 1-1,text,true,,1255,931,1,1,https://www.n11.com/arama/tamamla?keyword=iphone+16+pro,48,0,0
+1738682626733,125,/events-345,201,Created,Thread Group 1-1,,true,,471,1197,1,1,https://athena-event-provider.n11.com/events,125,0,0
+1738682626858,79,/arama-344,200,OK,Thread Group 1-1,text,true,,72434,876,1,1,https://www.n11.com/arama?q=iphone+16+pro,71,0,0
+1738682626937,39,/live-chat-355,200,,Thread Group 1-1,text,true,,1112,925,1,1,https://www.n11.com/live-chat?pathName=%2Farama,38,0,0
+1738682626977,44,/hesabim/hesap-bilgileri-354,200,,Thread Group 1-1,text,true,,1125,921,1,1,https://www.n11.com/hesabim/hesap-bilgileri,43,0,0
+1738682627022,38,/web-store-chat-357,200,,Thread Group 1-1,text,true,,998,929,1,1,https://www.n11.com/web-store-chat,38,0,0
+1738682627060,133,/events-358,200,OK,Thread Group 1-1,,true,,577,854,1,1,https://athena-event-provider.n11.com/events,133,0,0
+1738682627194,132,/events-360,201,Created,Thread Group 1-1,,true,,471,1480,1,1,https://athena-event-provider.n11.com/events,132,0,0
